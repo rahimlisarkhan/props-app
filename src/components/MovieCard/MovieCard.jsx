@@ -25,7 +25,6 @@ import { FaTv } from "react-icons/fa6";
         <Card.Text>
           <strong>Genre:</strong> {genre.join(', ')}
         </Card.Text>
-
         <Button variant="danger">Watching! 
          <FaTv/>
         </Button>
